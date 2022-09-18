@@ -7,7 +7,7 @@ You need ffmpeg for this along with the packages listed in requirements.txt.
 
 pip install -r requirements.txt
 
-
+The command given above is to be used once only.
 
 python3 nightcore.py "search term"
 
